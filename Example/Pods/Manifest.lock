@@ -1,0 +1,16 @@
+PODS:
+  - OCDynamicSDK (0.1.0)
+
+DEPENDENCIES:
+  - OCDynamicSDK (from `../`)
+
+EXTERNAL SOURCES:
+  OCDynamicSDK:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  OCDynamicSDK: 1455502695e2b8a01dfd3ecc8cb39ea9677c3e18
+
+PODFILE CHECKSUM: fc38f01701a09c718ad3312ef8f28544737fbef5
+
+COCOAPODS: 1.8.4
